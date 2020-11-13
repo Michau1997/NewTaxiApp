@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1067680259405",
+    "firebase_url": "https://newtaxiapplication.firebaseio.com",
+    "project_id": "newtaxiapplication",
+    "storage_bucket": "newtaxiapplication.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1067680259405:android:5f5537a860006de024eb04",
+        "android_client_info": {
+          "package_name": "com.example.newtaxiapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1067680259405-ru72vvk5dfeoksarvol2q7erdsb0ekom.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBm1CxUjeNYN5OJXeQMb0H9_q9V8-beYW8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1067680259405-ru72vvk5dfeoksarvol2q7erdsb0ekom.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
